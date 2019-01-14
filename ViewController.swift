@@ -31,7 +31,5 @@ class ViewController: UIViewController {
             myImageView.image = img
         }
     }
-
-
 }
 
